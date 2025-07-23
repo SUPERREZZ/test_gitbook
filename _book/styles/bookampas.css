@@ -66,27 +66,27 @@ body {
 
 .book-summary ul.summary li.active > a {
   background: white;
-  color: #8B3A3A;
+  color: #3d73dc;
   font-weight: bold;
 }
 
 .book-summary ul.summary li.active > a:hover {
-  background: #F0E0E0;
-  color: #A56C6C;
+  background: #e8f0ff;
+  color: #7f93bb;
 }
 
 /* Untuk sidebar link aktif (baik yang punya parent atau tidak) */
 .chapter.active > a,
 .chapter.active > .chapter-title > a {
   background: white;
-  color: #8B3A3A;
+  color: #3d73dc;
   font-weight: bold;
 }
 
 .chapter.active > a,
 .chapter.active > .chapter-title > a:hover {
-  background: #F0E0E0;
-  color: #A56C6C;
+  background: #e8f0ff;
+  color: #7f93bb;
 }
 
 .book-body .page-wrapper .page-inner section.normal {
