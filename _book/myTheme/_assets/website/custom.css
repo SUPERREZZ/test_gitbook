@@ -1,0 +1,73 @@
+/* Custom styles to change blue colors to soft dark maroon */
+
+/* Links */
+a {
+    color: #800020; /* Soft dark maroon */
+}
+
+a:hover {
+    color: #5c0017; /* Slightly darker maroon on hover */
+}
+
+/* Navigation */
+.book-summary ul.summary li a, 
+.book-summary ul.summary li.active > a {
+    color: #800020;
+}
+
+.book-summary ul.summary li a:hover,
+.book-summary ul.summary li.active > a:hover {
+    color: #5c0017;
+}
+
+/* Buttons */
+.btn, 
+.btn-default {
+    color: #800020;
+    border-color: #800020;
+}
+
+.btn:hover, 
+.btn-default:hover {
+    background-color: #800020;
+    border-color: #800020;
+}
+
+/* Active states */
+.book-summary ul.summary li.active > a {
+    color: #5c0017;
+    font-weight: bold;
+}
+
+/* Code blocks */
+.markdown-section code {
+    color: #800020;
+    background-color: rgba(128, 0, 32, 0.1);
+}
+
+/* Blockquotes */
+.markdown-section blockquote {
+    border-left: 4px solid #800020;
+    background-color: rgba(128, 0, 32, 0.05);
+}
+
+/* Headers */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+    color: #5c0017;
+}
+
+/* Navigation arrows */
+.navigation-prev,
+.navigation-next {
+    color: #800020;
+}
+
+.navigation-prev:hover,
+.navigation-next:hover {
+    color: #5c0017;
+}
