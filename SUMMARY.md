@@ -3,7 +3,7 @@
 
 
 - [Pilih Bahasa](kembali.md)
-- [Selamat Datang di eSchool Siakad](README.md)
+- [Selamat Datang di eSchool](README.md)
 
 ## Pengenalan
 
@@ -14,9 +14,6 @@
 
 - [Registrasi](panduan-pengguna-baru/registrasi.md)
 - [Login](panduan-pengguna-baru/login.md)
-- [Instalasi NoBox Dekstop](panduan-pengguna-baru/instalasi-nobox-dekstop.md)
-- [Instalasi NoBox Web](panduan-pengguna-baru/instalasi-nobox-web.md)
-- [Registrasi User CRM](panduan-pengguna-baru/registrasi-user-crm.md)
 
 ## Menu
 
