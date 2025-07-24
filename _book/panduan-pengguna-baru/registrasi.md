@@ -2,52 +2,51 @@
 icon: door-open
 ---
 
-# Registrasi
+# Pendaftaran eSchool
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/8SWFEna6-jk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Cara Mendaftar dan Berlangganan eSchool
 
+Aplikasi eSchool hanya dapat digunakan oleh sekolah yang telah berlangganan resmi melalui tim eSchool. Proses pendaftaran akun dilakukan oleh tim admin eSchool, bukan oleh sekolah atau pengguna secara langsung.
 
-## Membuat User Baru dan Usaha Baru
+### Langkah-langkah Pendaftaran:
 
-Berikut adalah langkah-langkah untuk mendaftar di NoBox.Ai dengan membuat usaha baru:
+1. Sekolah melakukan pendaftaran di halaman website eSchool Siakad dengan klik tombol "Daftarkan Sekolah Anda".
 
-1\. Buka browser dan akses situs [id.nobox.ai](https://id.nobox.ai/)_._
+   <figure>
+     <img src="../.gitbook/assets/LandingPage eSchool.png" alt="Tampilan Halaman Daftar Sekolah eSchool" />
+     <figcaption><em>Tampilan Halaman Awal – Klik tombol 'Daftarkan Sekolah Anda'</em></figcaption>
+   </figure>
 
-2\. Klik opsi **"\[Belum punya akun? Daftar]"**.
+2. Isi formulir pendaftaran sekolah dan admin yang muncul setelah tombol ditekan.
 
-3\. Lengkapi formulir pendaftaran dengan informasi pribadi Anda.
+   <figure>
+     <img src="../.gitbook/assets/1_Pendaftaran_Eschool.png" alt="Formulir Pendaftaran Sekolah dan Admin" />
+     <figcaption><em>Isi data sekolah dan admin utama dengan lengkap dan benar</em></figcaption>
+   </figure>
 
-4\. Pilih opsi **"Buat usaha baru"** jika ingin membuat akun usaha baru.
+belum sesuai
+3. Setelah aktivasi, admin eSchool akan:
+   - Membuat akun admin sekolah (untuk kepala sekolah/operator).
+   - Menyediakan akses login awal.
+4. Admin sekolah kemudian dapat membuat dan mengelola akun pengguna lain seperti:
+   - Guru
+   - Siswa
+   - Orang tua/wali murid
+5. Akun pengguna akan dikirimkan via email atau media komunikasi resmi dari pihak sekolah.
 
-5\. Masukkan informasi yang diperlukan tentang usaha Anda.
+---
 
-6\. Klik tombol **"\[Daftar]"** untuk mengirimkan formulir pendaftaran Anda.
+## Penting
 
-7\. Buka kotak masuk email Anda dan cari pesan dari NoBox.Ai. Klik tautan di dalam email tersebut untuk memverifikasi akun Anda. Jika tidak menemukan email verifikasi di kotak masuk utama, periksa folder spam atau folder promosi.
+- Pendaftaran tidak dapat dilakukan secara mandiri oleh individu (guru/siswa/orang tua).
+- Seluruh proses dimulai dari permintaan resmi sekolah ke pihak eSchool.
+- Jika Anda adalah individu yang ingin menggunakan eSchool, silakan arahkan pihak sekolah Anda untuk menghubungi kami.
 
-Jika Anda ingin bergabung dengan usaha yang sudah ada, Anda dapat mengikuti langkah-langkah ini untuk membuat akun baru dan bergabung dengan usaha yang sudah ada, [klik sini](https://crm.nobox.ai/knowledge-base/article/membuat-user-baru-dan-bergabung-ke-perusahaan-yang-sudah-ada).
+---
 
-## Registrasi dan Bergabung Ke Usaha Yang Sudah Ada
+## Hubungi Kami
 
-Berikut ini adalah langkah-langkah yang dapat diikuti untuk mendaftar dan bergabung dengan usaha yang sudah ada:
+Untuk mengajukan langganan atau mengetahui lebih lanjut:
 
-\
-1\. Buka browser dan akses situs [id.nobox.ai](https://id.nobox.ai/Account/Login/?ReturnUrl=%2F).
-
-2\. Klik tombol **\[Belum punya akun? Daftar]** untuk memulai proses pendaftaran akun baru.
-
-3\. Isi formulir pendaftaran dengan informasi pribadi Anda yang diminta, seperti nama, alamat email, dan kata sandi. Pastikan Anda mengisi informasi dengan akurat.
-
-4\. Pilih opsi "**Bergabung dengan Usaha yang sudah ada**".
-
-5\. Masukkan kode undangan yang diberikan oleh usaha yang Anda ingin gabung. Pastikan kode tersebut benar dan valid.
-
-6\. Setelah mengisi semua informasi dan memasukkan kode undangan, klik tombol **\[Daftar]** untuk mengirim pendaftaran.
-
-7\. Setelah pendaftaran berhasil dikirim, periksa kotak masuk email Anda untuk menemukan email verifikasi dari NoBox.ai. Klik link yang ada di dalam email untuk memverifikasi akun Anda.
-
-Jika semua langkah di atas dilakukan dengan benar, Anda seharusnya dapat bergabung dengan usaha yang sudah ada di platform NoBox.ai. Jika mengalami kendala atau tidak menerima verifikasi email , coba periksa folder spam pada kotak email Anda atau hubungi dukungan pelanggan NoBox.ai untuk bantuan lebih lanjut.
-
-***
-
-Jika ada masalah atau kesulitan terkait NoBox.Ai, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+- 🌐 Website: [eschool.ac.id](https://eschool.ac.id)
+- 📬 Kontak: [eschool.ac.id/kontak](https://eschool.ac.id/kontak)

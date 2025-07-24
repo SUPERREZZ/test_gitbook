@@ -1,18 +1,20 @@
 ---
 icon: square-user
 ---
+# Login eSchool
 
-# Login
+   <figure>
+     <img src="../.gitbook/assets/Login eSchool.png" alt="Tampilan Halaman Login eSchool" />
+     <figcaption><em>Tampilan Halaman Login eSchool</em></figcaption>
+   </figure>
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/Cg5MjWd1uUI?si=EqkjcOmg-EqEvQNk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Kunjungi website eSchool dan masuk menggunakan akun Anda. Pastikan Anda sudah memiliki akun yang terdaftar dari pihak sekolah atau admin.
 
+Pilih menu \[Masuk / Login], lalu masukkan username dan password sesuai dengan informasi akun Anda. Jika ini adalah login pertama kali, Anda mungkin akan diminta untuk mengganti password atau memverifikasi data.
 
-Kunjungi website NoBox dan masuk menggunakan akun Anda, pastikan Anda sudah memiliki akun yang terdaftar. Pilih menu **\[Berlangganan]**, unduh installer yang sesuai dengan sistem operasi komputer Anda.
+Untuk pengguna mobile, unduh aplikasi eSchool Mobile melalui Google Play Store atau Apple App Store sesuai dengan perangkat Anda, lalu login menggunakan akun yang sama.
 
-Jalankan installer NoBox yang telah diunduh. Pilih server yang ingin Anda gunakan, kemudian masukkan username dan password yang sesuai dengan akun yang terdaftar di website NoBox. Selanjutnya, ikuti langkah-langkah instalasinya.
+---
 
-Jika instalasi berhasil, maka di lokasi yang Anda pilih akan muncul 2 folder: **NoboxChatManager** dan **NoboxChatSession.**
-
-***
-
-Jika ada masalah atau kesulitan terkait NoBox.Ai, silahkan hubungi kami melalui [Support Ticket](https://crm.nobox.ai/clients/tickets)
+Jika Anda mengalami kendala dalam proses login atau tidak dapat mengakses akun, silakan hubungi tim bantuan kami melalui [Support eSchool](https://support.eschool.id/ticket) atau hubungi admin sekolah Anda.
+Jika Anda lupa password, gunakan fitur Lupa Password pada halaman login untuk mengatur ulang password Anda. Pastikan untuk mengikuti petunjuk yang diberikan melalui email atau SMS yang terdaftar pada akun Anda.
