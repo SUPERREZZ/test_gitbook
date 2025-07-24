@@ -8,7 +8,14 @@ eSchool adalah platform digital terpadu yang dirancang khusus untuk mempermudah 
 
 eSchool membantu sekolah dalam mengelola data akademik, menyampaikan informasi penting kepada siswa dan orangtua, serta memfasilitasi komunikasi dua arah secara efisien melalui aplikasi web dan mobile. Dengan dukungan sistem yang stabil dan mudah digunakan, eSchool memastikan proses pendidikan berjalan lebih terstruktur, modern, dan terhubung sepanjang waktu.
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/d3nexE3PqQk" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="742" height="418"
+    src="https://www.youtube.com/embed/mpy7tfNEx1k"
+    title="Video YouTube"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
 
 
 ## **Modul dan Keunggulan eSchool**

@@ -4,7 +4,14 @@ icon: pan-frying
 
 # Tampilan eSchool
 
-<iframe width="742" height="418" src="https://www.youtube.com/embed/KNauz2G7IGU" title="Pengenalan Tampilan NoBox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="742" height="418"
+    src="https://www.youtube.com/embed/xn9R8ZX1VfA"
+    title="Video YouTube"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+</iframe>
 
 Pada website eSchool, terdapat beberapa tampilan utama yang dirancang untuk memudahkan navigasi pengguna, yaitu:
 

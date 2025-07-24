@@ -15,9 +15,9 @@
 - [Registrasi](panduan-pengguna-baru/registrasi.md)
 - [Login](panduan-pengguna-baru/login.md)
 
-## Menu
+## Panduan Peran
 
-- [Dashboard](menu/dashboard.md)
+
 - [Pesan](menu/pesan/README.md)
   - [Dasbor Pesan](menu/pesan/dasbor-pesan.md)
   - [Kotak Masuk](menu/pesan/kotak-masuk.md)
@@ -67,7 +67,8 @@
   - [List](menu/kontak/list.md)
   - [Grup](menu/kontak/grup.md)
   - [Tag Kontak](menu/kontak/tag-kontak.md)
-- [Akun](menu/akun.md)
+
+<!-- - [Akun](menu/akun.md)
 - [AI Agents](menu/ai-agents.md)
 - [Human Agents](menu/human-agents.md)
 - [Berlangganan](menu/berlangganan.md)
@@ -79,51 +80,39 @@
   - [Mengganti Password](menu/pengaturan/mengganti-password.md)
   - [Inputan Khusus](menu/pengaturan/inputan-khusus.md)
   - [File Manager](menu/pengaturan/file-manager.md)
+- [Dashboard](menu/dashboard.md) -->
 
-## Automation
 
-- [E-Mail](automation/e-mail.md)
-- [Feature](automation/feature.md)
-- [Whatsapp](automation/whatsapp.md)
-- [Telegram](automation/telegram.md)
-- [Shopee](automation/shopee.md)
-- [Tokopedia](automation/tokopedia.md)
-- [Bukalapak](automation/bukalapak.md)
-
-## Extractor
+<!-- ## Extractor
 
 - [Google Maps Extractor](extractor/google-maps-extractor/README.md)
   - [Scrape Google Maps](extractor/google-maps-extractor/scrape-google-maps.md)
 - [OLX Sites Extractor](extractor/olx-sites-extractor/README.md)
   - [Scrape Website OLX](extractor/olx-sites-extractor/scrape-website-olx.md)
-- [Indonesiayp.com Extractor](extractor/indonesiayp.com-extractor.md)
-
-## NoBox Dekstop
-
-- [Pengenalan NoBox](nobox-dekstop/pengenalan-nobox.md)
-
-## Affiliate
-
-- [Registrasi Affiliate](affiliate/registrasi-affiliate.md)
-- [Program Affiliate](affiliate/program-affiliate.md)
-- [Kirim Affiliate Dan Cara Order](affiliate/kirim-affiliate-dan-cara-order.md)
+- [Indonesiayp.com Extractor](extractor/indonesiayp.com-extractor.md) -->
 
 ## Penyelesaian Masalah
 
 - [Masalah : user tidak bisa login](penyelesaian-masalah/masalah-user-tidak-bisa-login.md)
 - [Masalah : Tidak Bisa Menambah Account dan Tool](masalah-tidak-bisa-menambah-account-dan-tool.md)
-- [Konfigurasi API Telegram](konfigurasi-api-telegram.md)
+
+<!-- - [Konfigurasi API Telegram](konfigurasi-api-telegram.md) -->
+
 - [Lupa Password](lupa-password.md)
 
 ## Kebijakan dan Keamanan
 
 - [Keamanan](kebijakan-dan-keamanan/keamanan.md)
-- [Kepatuhan](kebijakan-dan-keamanan/kepatuhan.md)
-- [Keluhan Hak Kekayaan Intelektual (IPR)](kebijakan-dan-keamanan/keluhan-hak-kekayaan-intelektual-ipr.md)
-- [Kebijakan Anti-Spam](kebijakan-dan-keamanan/kebijakan-anti-spam.md)
+
+<!-- - [Kepatuhan](kebijakan-dan-keamanan/kepatuhan.md) -->
+<!-- - [Keluhan Hak Kekayaan Intelektual (IPR)](kebijakan-dan-keamanan/keluhan-hak-kekayaan-intelektual-ipr.md) -->
+<!-- - [Kebijakan Anti-Spam](kebijakan-dan-keamanan/kebijakan-anti-spam.md) -->
+
 - [Syarat dan Ketentuan Layanan](kebijakan-dan-keamanan/syarat-dan-ketentuan-layanan.md)
 - [Kebijakan Privasi](kebijakan-dan-keamanan/kebijakan-privasi.md)
-- [Kebijakan Cookie](kebijakan-dan-keamanan/kebijakan-cookie.md)
+
+<!-- - [Kebijakan Cookie](kebijakan-dan-keamanan/kebijakan-cookie.md)
 - [Kepatuhan GDPR](kebijakan-dan-keamanan/kepatuhan-gdpr.md)
-- [Kebijakan Penyalahgunaan](kebijakan-dan-keamanan/kebijakan-penyalahgunaan.md)
+- [Kebijakan Penyalahgunaan](kebijakan-dan-keamanan/kebijakan-penyalahgunaan.md) -->
+
 - [Hubungi Kami](kebijakan-dan-keamanan/hubungi-kami.md)
